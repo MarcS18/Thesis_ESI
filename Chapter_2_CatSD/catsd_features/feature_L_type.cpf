@@ -1,0 +1,9 @@
+FEATURE_NAME catsd_l_type
+
+FEATURE_COLOUR 255 156 57
+
+DEFINE_FEATURE simple_point POINT
+
+SMARTS_DEF [*NX3v3]
+FEATURE simple_point 0
+

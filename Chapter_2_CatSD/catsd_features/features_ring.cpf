@@ -1,0 +1,21 @@
+FEATURE_NAME ring
+
+FEATURE_COLOUR 85 255 0
+
+DEFINE_FEATURE centroid CENTROID
+
+SMARTS_DEF [!#1]1~[!#1]~[!#1]~[!#1]~1
+FEATURE centroid 0 1 2 3
+
+SMARTS_DEF [!#1]1~[!#1]~[!#1]~[!#1]~[!#1]~1
+FEATURE centroid 0 1 2 3 4
+
+SMARTS_DEF [!#1]1~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~1
+FEATURE centroid 0 1 2 3 4 5
+
+SMARTS_DEF [!#1]1~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~1
+FEATURE centroid 0 1 2 3 4 5 6
+
+SMARTS_DEF [!#1]1~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~[!#1]~1
+FEATURE centroid 0 1 2 3 4 5 6 7
+

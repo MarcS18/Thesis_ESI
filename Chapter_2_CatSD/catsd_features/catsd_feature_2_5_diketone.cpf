@@ -1,0 +1,11 @@
+FEATURE_NAME catsd_2_5_diketone
+
+FEATURE_COLOUR 170 170 255
+
+DEFINE_FEATURE sp2 TRIGONAL 2
+
+SMARTS_DEF [#6](-[#6])(-[#6]=[#6](-[#6])-[#8-])=[#8]
+FEATURE sp2 5 6
+
+
+

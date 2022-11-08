@@ -1,0 +1,13 @@
+-name L0001_CuLpip_1
+-core copper
+-oxstate I
+-coord 3
+-geometry tpl
+-lig C1CCN2C[C@@H]3C[C@@H](CN4CCCC[C@H]34)[C@@H]2C1, C1CCNCC1
+-ligocc 1,1
+-smicat [4, 12], [4]
+-spin 1
+-ff uff
+-ffoption ba
+-keepHs auto, False
+-ligalign true

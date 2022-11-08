@@ -1,0 +1,9 @@
+FEATURE_NAME catsd_transition_metal
+
+FEATURE_COLOUR 0 255 255
+
+DEFINE_FEATURE Transition_Metal POINT
+
+SMARTS_DEF [Sc,Ti,V,Cr,Mn,Fe,Co,Ni,Cu,Zn,Y,Zr,Nb,Mo,Tc,Ru,Rh,Pd,Ag,Cd,Hf,Ta,W,Re,Os,Ir,Pt,Au,Hg]
+FEATURE Transition_Metal 0
+

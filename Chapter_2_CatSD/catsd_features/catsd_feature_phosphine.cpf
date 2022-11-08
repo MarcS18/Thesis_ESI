@@ -1,0 +1,12 @@
+FEATURE_NAME catsd_phosphine
+
+FEATURE_COLOUR 170 170 255
+
+DEFINE_FEATURE sp3 TETRAHEDRAL 2
+
+
+SMARTS_DEF [PX3](-[#6;#7])(-[#6;#7])-[#6;#7]
+FEATURE sp3 0
+
+
+

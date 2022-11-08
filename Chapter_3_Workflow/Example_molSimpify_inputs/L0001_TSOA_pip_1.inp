@@ -1,0 +1,14 @@
+-name L0001_TSOA_pip_1
+-core tsoa_pip
+-oxstate 0
+-spin 1
+-replig true
+-lig C1CCN2C[C@@H]3C[C@@H](CN4CCCC[C@H]34)[C@@H]2C1
+-ligocc 1
+-ccatoms 6,15
+-smicat [4, 12]
+-geometry tbp
+-ligalign true
+-keepHs auto
+-ffoption c
+-ff uff

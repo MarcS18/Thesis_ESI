@@ -1,0 +1,12 @@
+FEATURE_NAME catsd_phosphate_ester
+
+FEATURE_COLOUR 170 170 255
+
+DEFINE_FEATURE sp3 TETRAHEDRAL 2
+
+
+SMARTS_DEF [PX3](-[#8H0][#6])(-[#8H0][#6])-[#8H0][#6]
+FEATURE sp3 0
+
+
+
