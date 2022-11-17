@@ -1,0 +1,13 @@
+-name ATUNEJ_TSOA_pip_1
+-core tsoa_pip
+-oxstate 0
+-spin 1
+-replig true
+-lig ATUNEJ
+-ligocc 1
+-ccatoms 6,15
+-ligloc true
+-ligalign true
+-keepHs auto
+-ffoption c
+-skipANN true

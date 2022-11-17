@@ -1,0 +1,13 @@
+-name ATUNEJ_TSSig_pip_1
+-core tssig_pip
+-oxstate 0
+-spin 1
+-replig true
+-lig ATUNEJ
+-ligocc 1
+-ccatoms 4,15
+-ligloc true
+-ligalign true
+-keepHs auto
+-ffoption c
+-skipANN true
